@@ -1,6 +1,6 @@
-# Marievikfighters Exercise Images
+# Exercise Images
 
-Övningsbilder och metadata för Marievikfighters träningsapp.
+Övningsbilder och metadata med svenska instruktioner.
 
 ## Innehåll
 
